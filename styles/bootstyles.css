@@ -1,0 +1,25 @@
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 100px;
+    border: solid 2px black;
+    text-align: center;
+}
+
+.subheader{
+    text-align: right;
+    text-transform: uppercase;
+    padding-right: 5px;
+}
+
+.mainbody{
+    top: 114px;
+    left: 5px;
+    right: 5px;
+    bottom: 65px;
+}
+body{
+    background-color:#b1b0b3
+  }
+
